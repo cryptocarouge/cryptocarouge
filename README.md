@@ -4,6 +4,8 @@
 
 # Leandro Carouge
 
+**Portfolio:** https://cryptocarouge.github.io/
+
 I build **practical AI agents and automation systems** with n8n, LLMs, APIs, JavaScript and event-driven workflows.
 
 My focus is complete systems rather than isolated prompts: data collection, routing, explicit state, validation, AI reasoning where it adds value, fallbacks, monitoring and operational outputs.
