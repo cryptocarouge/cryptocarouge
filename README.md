@@ -4,7 +4,8 @@
 
 # Leandro Carouge
 
-**Portfolio:** https://cryptocarouge.github.io/
+**Portfolio:** https://cryptocarouge.github.io/  
+**Systems Map:** https://cryptocarouge.github.io/systems-map.html
 
 I build **practical AI agents and automation systems** with n8n, LLMs, APIs, JavaScript and event-driven workflows.
 
