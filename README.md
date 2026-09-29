@@ -37,7 +37,7 @@ My focus is complete systems rather than isolated prompts: data collection, rout
 | Project | What it demonstrates |
 | --- | --- |
 | **[Lancelot Trading Machine](https://github.com/cryptocarouge/lancelot-trading-machine)** | Modular market intelligence, dedicated data workers, discovery, decision layers, execution state and reconciliation. |
-| **[Lancelot X AI Publishing](https://github.com/cryptocarouge/lancelot-x-ai-publishing)** | Research-to-publication pipeline with factual inputs, editorial AI, image generation, anti-spam controls and publish verification. |
+| **[Lancelot X AI Publishing](https://github.com/cryptocarouge/lancelot-x-ai-publishing)** | Research-to-publication pipeline with factual inputs, editorial AI, image/video generation, anti-spam controls and publish verification. |
 | **[Swiss Security Report AI Agent](https://github.com/cryptocarouge/swiss-security-report-ai-agent)** | Privacy-first voice/text reporting, transcription, structured output, session state and PDF generation. |
 | **[AI Automotive Business Assistant](https://github.com/cryptocarouge/ai-automotive-business-assistant)** | Multimodal document processing, customer workflows, PDFs, structured data and operational automation. |
 | **[Football Matchday AI Agent](https://github.com/cryptocarouge/football-matchday-ai-agent)** | Event-driven match intelligence, multi-source validation, persistent state, deduplication and publishing control. |
@@ -53,7 +53,7 @@ My focus is complete systems rather than isolated prompts: data collection, rout
 
 ## Stack
 
-`n8n` · `OpenAI` · `JavaScript` · `Telegram` · `Google Sheets` · `REST APIs` · `Gotenberg` · `X API` · market-data APIs · sports-data APIs
+`n8n` · `OpenAI` · `HyperFrames` · `JavaScript` · `Telegram` · `Google Sheets` · `REST APIs` · `Gotenberg` · `X API` · market-data APIs · sports-data APIs
 
 ## Public portfolio policy
 
