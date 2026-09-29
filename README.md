@@ -37,6 +37,7 @@ My focus is complete systems rather than isolated prompts: data collection, rout
 | **[Swiss Security Report AI Agent](https://github.com/cryptocarouge/swiss-security-report-ai-agent)** | Privacy-first voice/text reporting, transcription, structured output, session state and PDF generation. |
 | **[AI Automotive Business Assistant](https://github.com/cryptocarouge/ai-automotive-business-assistant)** | Multimodal document processing, customer workflows, PDFs, structured data and operational automation. |
 | **[Football Matchday AI Agent](https://github.com/cryptocarouge/football-matchday-ai-agent)** | Event-driven match intelligence, multi-source validation, persistent state, deduplication and publishing control. |
+| **[Stateful Wellness Coach AI Agent](https://github.com/cryptocarouge/stateful-wellness-coach-ai-agent)** | Production-proven stateful coaching architecture with deterministic nutrition, adaptive training, safety guardrails, multimodal progress analysis and recoverable memory. |
 
 ## Engineering principles
 
