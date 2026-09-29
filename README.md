@@ -11,6 +11,27 @@ I build **practical AI agents and automation systems** with n8n, LLMs, APIs, Jav
 
 My focus is complete systems rather than isolated prompts: data collection, routing, explicit state, validation, AI reasoning where it adds value, fallbacks, monitoring and operational outputs.
 
+## Systems portfolio film
+
+<p align="center">
+  <a href="https://github.com/cryptocarouge/cryptocarouge/releases/tag/portfolio-film-v2">
+    <img src="assets/portfolio/cryptocarouge-systems-film-preview.gif" alt="CryptoCarouge Systems Portfolio Film — AI agents, automation and operational systems" width="900">
+  </a>
+</p>
+
+<p align="center">
+  <strong>One minute. Five public systems. One engineering discipline.</strong><br>
+  <sub>Research · state · AI · validation · action · verification</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cryptocarouge/cryptocarouge/releases/download/portfolio-film-v2/CryptoCarouge-Systems-Portfolio-V2-EN.mp4"><strong>▶ Watch the English film</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://cryptocarouge.github.io/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://cryptocarouge.github.io/systems-map.html">Systems Map</a>
+</p>
+
 ## Selected work
 
 | Project | What it demonstrates |
